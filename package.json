@@ -1,0 +1,14 @@
+{
+  "name": "testcurriculo",
+  "version": "1.0.0",
+  "description": "Teste de currículo HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "João Ricardo",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}
